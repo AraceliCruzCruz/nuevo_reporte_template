@@ -21,6 +21,10 @@ website:
         contents:
           - mis_reportes/reporte-03.qmd
 
+      - section: "Combinación Reportes R y Python"
+        contents:
+          - mis_reportes/reporte-04.qmd
+
 format:
   html:
     theme: sandstone
