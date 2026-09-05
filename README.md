@@ -33,7 +33,7 @@ format:
     toc: true
     lang: es
 ```
-
+## Paso 5:
 Crear un documento que se llame
 ".github/workflows/publish.yml"
 
