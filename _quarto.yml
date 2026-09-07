@@ -27,6 +27,6 @@ website:
 
 format:
   html:
-    theme: sandstone
+    theme: slate
     toc: true
     lang: es
